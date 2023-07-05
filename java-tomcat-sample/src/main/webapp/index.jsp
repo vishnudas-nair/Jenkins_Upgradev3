@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2> This code is to test the applicatiion is deployed or not </h2>
+<h2> This code is to test the application is deployed  </h2>
 </body>
 </html>
